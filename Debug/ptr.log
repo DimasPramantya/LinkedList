@@ -1,0 +1,3 @@
+﻿  ptr.cpp
+C:\Users\Acer\source\repos\ptr\ptr\ptr.cpp(17,11): warning C4101: 'traverse': unreferenced local variable
+  ptr.vcxproj -> C:\Users\Acer\source\repos\ptr\Debug\ptr.exe
